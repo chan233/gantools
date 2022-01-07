@@ -33,34 +33,14 @@ x0,y0
                         xmax,ymax   
    
 
-
-while (1)
-    if ystart > 0 && xstart > 0:
-        cropImg = img[ystart:yend, xstart:xend]
-        break;
-    else:
-        xend =  random.randint(0,height) 
-        xstart = 1024 - xend
-        yend = random.randint(0,weight) 
-        ystart = 1024 - yend
-        continue
 '''
 def randomseed(height,weight):
-    xend =  random.randint(0,height) 
-    xstart = 1024 - xend
-    yend = random.randint(0,weight) 
-    ystart = 1024 - yend
-    while True:
-        if ystart > 0 and xstart > 0:
-            print('ystart %d,yend %d,xstart %d,xend %d'%ystart,yend,xstart,xend)
-            return ystart,yend,xstart,xend
-        else:
-            xend =  random.randint(0,height) 
-            xstart = 1024 - xend
-            yend = random.randint(0,weight) 
-            ystart = 1024 - yend
-            continue
-  
+    xend =  random.randint(1024,height) 
+    xstart = xend - 1024 
+    yend = random.randint(1024,weight) 
+    ystart = yend - 1024 
+    print('ystart %d,yend %d,xstart %d,xend %d'%ystart,yend,xstart,xend)
+    return ystart,yend,xstart,xend
     
 
 def cut_img(img_paths,output_dir):
