@@ -8,11 +8,12 @@
     input_dir = "./label"
 """
 import multiprocessing
-import cv2
+#import cv2
 import os
 import time
 import random
-
+g_x = 0
+g_y = 0
 def get_img(input_dir):
     img_paths = []
     for (path,dirname,filenames) in os.walk(input_dir):
@@ -35,11 +36,11 @@ x0,y0
 
 '''
 def randomseed(height,weight):
-    xend =  random.randint(1024,height) 
-    xstart = xend - 1024 
-    yend = random.randint(1024,weight) 
-    ystart = yend - 1024 
-    print('ystart %d,yend %d,xstart %d,xend %d'%ystart,yend,xstart,xend)
+    xend =  random.randint(g_x,height) 
+    xstart = xend - g_x 
+    yend = random.randint(g_y,weight) 
+    ystart = yend - g_y 
+    print('ystart %d,yend %d,xstart %d,xend %d'%(ystart,yend,xstart,xend))
     return ystart,yend,xstart,xend
     
 
@@ -48,17 +49,12 @@ def cut_img(img_paths,output_dir):
     try:
         img = cv2.imread(img_paths)
         height, weight = img.shape[:2]
+       
+        return imread_failed (if height < g_y or weight < g_x)
 
         ystart,yend,xstart,xend = randomseed(height,weight)
         cropImg = img[ystart:yend, xstart:xend]
         cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1], cropImg)
-   
-        # if (1.0 * height / weight) < 1.3:       # 正常发票
-        #     cropImg = img[50:200, 700:1500]     # 裁剪【y1,y2：x1,x2】
-        #     cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1], cropImg)
-        # else:                                   # 卷帘发票
-        #     cropImg_01 = img[30:150, 50:600]
-        #     cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1], cropImg_01)
     except:
         imread_failed.append(img_paths)
     return imread_failed
@@ -88,6 +84,6 @@ if __name__ == "__main__":
     # input_dir = "D:/image_person"       # 读取图片目录表
     # output_dir = "D:/image_person_02"   # 保存截取的图像目录
     # main(input_dir, output_dir)
-
-    for i in range(200):
+    g_x,g_y = 1024
+    for i in range(2000):
         randomseed(1920,1080)
