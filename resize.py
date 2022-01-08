@@ -12,8 +12,10 @@ import cv2
 import os
 import time
 import random
-g_x = 1024
-g_y = 1024
+g_x = 0
+g_y = 0
+
+
 def get_img(input_dir):
     img_paths = []
     print("input_dir ==>",input_dir)
@@ -49,15 +51,14 @@ def cut_img(img_paths,output_dir):
     imread_failed = []
     try:
         img = cv2.imread(img_paths,1)
-        height, weight = img.shape[:2]
-       
+        height, weight = img.shape[:2]   
         if height < g_y or weight < g_x:
-            return imread_failed 
-     
+            print('image size not enough to reszie')
+            return imread_failed    
         ystart,yend,xstart,xend = randomseed(height,weight)
-        cropImg = img[ystart:yend, xstart:xend]
-        print('after size==>',cropImg.shape)
-        cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1], cropImg)
+        cropImg = img[ystart:yend, xstart:xend] # random reszie 1024*1024
+        cropImg = cv2.cvtColor(cropImg, cv2.COLOR_BGR2RGB) # convert to rgb
+        cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1].split('.')[0]+".png",cropImg)  #save to png
   
         
     except Exception as e:
@@ -93,5 +94,7 @@ def main(input_dir,output_dir):
 if __name__ == "__main__":
     input_dir = '/root/Desktop/git/gantools/alphacoders/space'      # 读取图片目录表
     output_dir = '/root/Desktop/git/gantools/alphacoders/out'   # 保存截取的图像目录
+    g_x = 1024
+    g_y = 1024
     main(input_dir, output_dir)
 

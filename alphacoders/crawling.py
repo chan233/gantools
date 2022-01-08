@@ -93,6 +93,6 @@ if __name__ == '__main__':
         crawler = Crawler(args.delay)
         crawler.start(args.word, args.total_page)  # 抓取关键词为 args.word ，总数为 args.total_page页
     else:
-        crawler = Crawler(0.05)  # 抓取延迟为 0.05
+        crawler = Crawler(0.1)  # 抓取延迟为 0.05
         crawler.start()  # 抓取关键词为 “comic”，总数为 1 页
       

@@ -35,8 +35,8 @@ def delfile():
 if __name__ == '__main__':
 #def doprocess():
     oldf = filecount(filedir)
-    print('去重前有', oldf, '个文件\n请稍等正在删除重复文件...')
+    print('before uniq', oldf, 'files\nplease wait for deleting...')
     delfile()
-    print('\n\n去重后剩', filecount(filedir), '个文件')
-    print('\n\n一共删除了', oldf - filecount(filedir), '个文件\n\n')
+    print('\n\nafter uniq', filecount(filedir), 'files')
+    print('\n\ndelete', oldf - filecount(filedir), 'files\n\n')
 

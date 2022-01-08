@@ -499,3 +499,223 @@ Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origi
 > git ls-files --stage -- /root/Desktop/git/gantools/resize.py
 > git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
 > git show --textconv :resize.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :resize.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :resize.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git show --textconv :resize.py
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :uniq.py
+> git ls-files --stage -- /root/Desktop/git/gantools/uniq.py
+> git cat-file -s a48026111e242e59bb08a818b5603aa49bcffa7e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :uniq.py
+> git ls-files --stage -- /root/Desktop/git/gantools/uniq.py
+> git cat-file -s a48026111e242e59bb08a818b5603aa49bcffa7e
+> git show --textconv :resize.py
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :uniq.py
+> git ls-files --stage -- /root/Desktop/git/gantools/uniq.py
+> git cat-file -s a48026111e242e59bb08a818b5603aa49bcffa7e
+> git show --textconv :log.txt
+> git ls-files --stage -- /root/Desktop/git/gantools/log.txt
+> git cat-file -s 471b62d9db5109b869e67a05e57646a47da60809
+> git show --textconv :uniq.py
+> git ls-files --stage -- /root/Desktop/git/gantools/uniq.py
+> git cat-file -s a48026111e242e59bb08a818b5603aa49bcffa7e
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/Desktop/git/gantools/gloabl.pyc
+> git show --textconv :gloabl.py
+> git ls-files --stage -- /root/Desktop/git/gantools/gloabl.py
+> git cat-file -s bd2b7ca72f61f24ea085a1a40e66e0562eafe7ef
+> git check-ignore -v -z --stdin
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /root/Desktop/git/gantools/alphacoders/config.pyc
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
+> git show --textconv :pre_process_pic.py
+> git ls-files --stage -- /root/Desktop/git/gantools/pre_process_pic.py
+> git cat-file -s a7f011f564bf563ed13a8202de4a9e089df95d98
+> git show --textconv :resize.py
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :pre_process_pic.py
+> git ls-files --stage -- /root/Desktop/git/gantools/pre_process_pic.py
+> git cat-file -s a7f011f564bf563ed13a8202de4a9e089df95d98
+> git show --textconv :resize.py
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :pre_process_pic.py
+> git ls-files --stage -- /root/Desktop/git/gantools/pre_process_pic.py
+> git cat-file -s a7f011f564bf563ed13a8202de4a9e089df95d98
+> git show --textconv :resize.py
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
+> git show --textconv :resize.py
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :alphacoders/crawling.py
+> git ls-files --stage -- /root/Desktop/git/gantools/alphacoders/crawling.py
+> git cat-file -s a308eda3cbbc976e177ecec5edd29f3d0853ce9c
