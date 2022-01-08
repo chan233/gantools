@@ -455,3 +455,47 @@ Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origi
 > git remote --verbose
 Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
 > git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :resize.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :resize.py
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/main refs/remotes/main
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+Warning: Failed to watch ref '/root/Desktop/git/gantools/.git/refs/remotes/origin/main', is most likely packed.
+> git config --get commit.template
+> git ls-files --stage -- /root/Desktop/git/gantools/resize.py
+> git cat-file -s e4a122ec6ee6b5b5626c220d423eb2539d4a5c40
+> git show --textconv :resize.py
