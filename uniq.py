@@ -1,8 +1,10 @@
+#-*- coding:UTF-8 -*-
+
 import os
 import hashlib
 import gloabl
 #filedir = './'+gloabl.g_name
-filedir = '/home/ubuntu/py/scrapy/baidupic/星空'
+filedir = '/root/Desktop/git/gantools/alphacoders/space'
 def filecount(DIR):
     filecount = len([name for name in os.listdir(DIR) if os.path.isfile(os.path.join(DIR, name))])
     return (filecount)

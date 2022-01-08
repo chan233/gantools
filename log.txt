@@ -1,0 +1,1330 @@
+input_dir ==> /root/Desktop/git/gantools/alphacoders/space
+img_paths: ['/root/Desktop/git/gantools/alphacoders/space/121547.jpg', '/root/Desktop/git/gantools/alphacoders/space/324583.jpg', '/root/Desktop/git/gantools/alphacoders/space/345414.jpg', '/root/Desktop/git/gantools/alphacoders/space/302717.jpg', '/root/Desktop/git/gantools/alphacoders/space/2545.jpg', '/root/Desktop/git/gantools/alphacoders/space/778570.jpg', '/root/Desktop/git/gantools/alphacoders/space/227839.jpg', '/root/Desktop/git/gantools/alphacoders/space/287073.jpg', '/root/Desktop/git/gantools/alphacoders/space/108204.jpg', '/root/Desktop/git/gantools/alphacoders/space/562953.png', '/root/Desktop/git/gantools/alphacoders/space/320280.jpg', '/root/Desktop/git/gantools/alphacoders/space/89914.jpg', '/root/Desktop/git/gantools/alphacoders/space/320283.jpg', '/root/Desktop/git/gantools/alphacoders/space/866360.jpg', '/root/Desktop/git/gantools/alphacoders/space/644455.jpg', '/root/Desktop/git/gantools/alphacoders/space/320286.jpg', '/root/Desktop/git/gantools/alphacoders/space/57219.jpg', '/root/Desktop/git/gantools/alphacoders/space/166912.jpg', '/root/Desktop/git/gantools/alphacoders/space/1120397.png', '/root/Desktop/git/gantools/alphacoders/space/808258.png', '/root/Desktop/git/gantools/alphacoders/space/415838.jpg', '/root/Desktop/git/gantools/alphacoders/space/772701.jpg', '/root/Desktop/git/gantools/alphacoders/space/379323.jpg', '/root/Desktop/git/gantools/alphacoders/space/129697.jpg', '/root/Desktop/git/gantools/alphacoders/space/75617.jpg', '/root/Desktop/git/gantools/alphacoders/space/566803.jpg', '/root/Desktop/git/gantools/alphacoders/space/287038.jpg', '/root/Desktop/git/gantools/alphacoders/space/303623.jpg', '/root/Desktop/git/gantools/alphacoders/space/80903.jpg', '/root/Desktop/git/gantools/alphacoders/space/577980.jpg', '/root/Desktop/git/gantools/alphacoders/space/286874.jpg', '/root/Desktop/git/gantools/alphacoders/space/212456.jpg', '/root/Desktop/git/gantools/alphacoders/space/106498.jpg', '/root/Desktop/git/gantools/alphacoders/space/585400.png', '/root/Desktop/git/gantools/alphacoders/space/335520.jpg', '/root/Desktop/git/gantools/alphacoders/space/678913.jpg', '/root/Desktop/git/gantools/alphacoders/space/8462.jpg', '/root/Desktop/git/gantools/alphacoders/space/84047.jpg', '/root/Desktop/git/gantools/alphacoders/space/43865.jpg', '/root/Desktop/git/gantools/alphacoders/space/1158653.jpg', '/root/Desktop/git/gantools/alphacoders/space/545583.jpg', '/root/Desktop/git/gantools/alphacoders/space/286938.jpg', '/root/Desktop/git/gantools/alphacoders/space/113775.jpg', '/root/Desktop/git/gantools/alphacoders/space/805172.jpg', '/root/Desktop/git/gantools/alphacoders/space/112196.jpg', '/root/Desktop/git/gantools/alphacoders/space/114228.jpg', '/root/Desktop/git/gantools/alphacoders/space/964474.jpg', '/root/Desktop/git/gantools/alphacoders/space/482721.jpg', '/root/Desktop/git/gantools/alphacoders/space/104944.jpg', '/root/Desktop/git/gantools/alphacoders/space/127953.jpg', '/root/Desktop/git/gantools/alphacoders/space/492784.jpg', '/root/Desktop/git/gantools/alphacoders/space/974428.jpg', '/root/Desktop/git/gantools/alphacoders/space/659468.jpg', '/root/Desktop/git/gantools/alphacoders/space/376890.jpg', '/root/Desktop/git/gantools/alphacoders/space/206212.jpg', '/root/Desktop/git/gantools/alphacoders/space/549908.jpg', '/root/Desktop/git/gantools/alphacoders/space/868698.jpg', '/root/Desktop/git/gantools/alphacoders/space/210220.jpg', '/root/Desktop/git/gantools/alphacoders/space/122566.jpg', '/root/Desktop/git/gantools/alphacoders/space/726682.jpg', '/root/Desktop/git/gantools/alphacoders/space/114640.jpg', '/root/Desktop/git/gantools/alphacoders/space/1067199.jpg', '/root/Desktop/git/gantools/alphacoders/space/368406.jpg', '/root/Desktop/git/gantools/alphacoders/space/1138878.jpg', '/root/Desktop/git/gantools/alphacoders/space/608906.jpg', '/root/Desktop/git/gantools/alphacoders/space/588412.jpg', '/root/Desktop/git/gantools/alphacoders/space/2532.jpg', '/root/Desktop/git/gantools/alphacoders/space/787307.jpg', '/root/Desktop/git/gantools/alphacoders/space/849370.jpg', '/root/Desktop/git/gantools/alphacoders/space/853894.jpg', '/root/Desktop/git/gantools/alphacoders/space/286946.jpg', '/root/Desktop/git/gantools/alphacoders/space/822479.jpg', '/root/Desktop/git/gantools/alphacoders/space/124786.jpg', '/root/Desktop/git/gantools/alphacoders/space/499580.png', '/root/Desktop/git/gantools/alphacoders/space/1043504.jpg', '/root/Desktop/git/gantools/alphacoders/space/50349.jpg', '/root/Desktop/git/gantools/alphacoders/space/280026.jpg', '/root/Desktop/git/gantools/alphacoders/space/481563.jpg', '/root/Desktop/git/gantools/alphacoders/space/852186.jpg', '/root/Desktop/git/gantools/alphacoders/space/223704.jpg', '/root/Desktop/git/gantools/alphacoders/space/80316.jpg', '/root/Desktop/git/gantools/alphacoders/space/611017.png', '/root/Desktop/git/gantools/alphacoders/space/608291.jpg', '/root/Desktop/git/gantools/alphacoders/space/1043255.png', '/root/Desktop/git/gantools/alphacoders/space/312428.jpg', '/root/Desktop/git/gantools/alphacoders/space/32591.jpg', '/root/Desktop/git/gantools/alphacoders/space/335810.jpg', '/root/Desktop/git/gantools/alphacoders/space/362044.jpg', '/root/Desktop/git/gantools/alphacoders/space/146888.jpg', '/root/Desktop/git/gantools/alphacoders/space/405947.jpg', '/root/Desktop/git/gantools/alphacoders/space/927588.jpg', '/root/Desktop/git/gantools/alphacoders/space/1008435.jpg', '/root/Desktop/git/gantools/alphacoders/space/1155812.png', '/root/Desktop/git/gantools/alphacoders/space/871803.jpg', '/root/Desktop/git/gantools/alphacoders/space/984392.jpg', '/root/Desktop/git/gantools/alphacoders/space/397989.jpg', '/root/Desktop/git/gantools/alphacoders/space/781842.jpg', '/root/Desktop/git/gantools/alphacoders/space/368171.jpg', '/root/Desktop/git/gantools/alphacoders/space/438211.jpg', '/root/Desktop/git/gantools/alphacoders/space/127958.jpg', '/root/Desktop/git/gantools/alphacoders/space/188882.jpg', '/root/Desktop/git/gantools/alphacoders/space/747737.jpg', '/root/Desktop/git/gantools/alphacoders/space/274266.jpg', '/root/Desktop/git/gantools/alphacoders/space/881685.jpg', '/root/Desktop/git/gantools/alphacoders/space/706223.jpg', '/root/Desktop/git/gantools/alphacoders/space/1187530.jpg', '/root/Desktop/git/gantools/alphacoders/space/141869.jpg', '/root/Desktop/git/gantools/alphacoders/space/106698.jpg', '/root/Desktop/git/gantools/alphacoders/space/178694.jpg', '/root/Desktop/git/gantools/alphacoders/space/795586.png', '/root/Desktop/git/gantools/alphacoders/space/878355.png', '/root/Desktop/git/gantools/alphacoders/space/105833.jpg', '/root/Desktop/git/gantools/alphacoders/space/654517.jpg', '/root/Desktop/git/gantools/alphacoders/space/68590.jpg', '/root/Desktop/git/gantools/alphacoders/space/611161.png', '/root/Desktop/git/gantools/alphacoders/space/113280.jpg', '/root/Desktop/git/gantools/alphacoders/space/446646.jpg', '/root/Desktop/git/gantools/alphacoders/space/64031.jpg', '/root/Desktop/git/gantools/alphacoders/space/800734.jpg', '/root/Desktop/git/gantools/alphacoders/space/809367.jpg', '/root/Desktop/git/gantools/alphacoders/space/796291.png', '/root/Desktop/git/gantools/alphacoders/space/1109970.jpg', '/root/Desktop/git/gantools/alphacoders/space/187620.jpg', '/root/Desktop/git/gantools/alphacoders/space/212846.jpg', '/root/Desktop/git/gantools/alphacoders/space/407375.jpg', '/root/Desktop/git/gantools/alphacoders/space/106190.jpg', '/root/Desktop/git/gantools/alphacoders/space/489534.jpg', '/root/Desktop/git/gantools/alphacoders/space/28165.jpg', '/root/Desktop/git/gantools/alphacoders/space/83512.jpg', '/root/Desktop/git/gantools/alphacoders/space/330738.jpg', '/root/Desktop/git/gantools/alphacoders/space/913992.png', '/root/Desktop/git/gantools/alphacoders/space/718551.jpg', '/root/Desktop/git/gantools/alphacoders/space/947077.jpg', '/root/Desktop/git/gantools/alphacoders/space/167750.jpg', '/root/Desktop/git/gantools/alphacoders/space/805177.jpg', '/root/Desktop/git/gantools/alphacoders/space/80317.jpg', '/root/Desktop/git/gantools/alphacoders/space/694466.jpg', '/root/Desktop/git/gantools/alphacoders/space/1008103.png', '/root/Desktop/git/gantools/alphacoders/space/516678.jpg', '/root/Desktop/git/gantools/alphacoders/space/853378.jpg', '/root/Desktop/git/gantools/alphacoders/space/180323.jpg', '/root/Desktop/git/gantools/alphacoders/space/286967.jpg', '/root/Desktop/git/gantools/alphacoders/space/878814.png', '/root/Desktop/git/gantools/alphacoders/space/1071022.png', '/root/Desktop/git/gantools/alphacoders/space/682612.jpg', '/root/Desktop/git/gantools/alphacoders/space/103988.jpg', '/root/Desktop/git/gantools/alphacoders/space/499579.png', '/root/Desktop/git/gantools/alphacoders/space/364353.jpg', '/root/Desktop/git/gantools/alphacoders/space/310760.jpg', '/root/Desktop/git/gantools/alphacoders/space/446692.jpg', '/root/Desktop/git/gantools/alphacoders/space/1136184.png', '/root/Desktop/git/gantools/alphacoders/space/15621.jpg', '/root/Desktop/git/gantools/alphacoders/space/296801.jpg', '/root/Desktop/git/gantools/alphacoders/space/822471.jpg', '/root/Desktop/git/gantools/alphacoders/space/193.jpg', '/root/Desktop/git/gantools/alphacoders/space/242.jpg', '/root/Desktop/git/gantools/alphacoders/space/1027696.jpg', '/root/Desktop/git/gantools/alphacoders/space/83504.png', '/root/Desktop/git/gantools/alphacoders/space/167492.jpg', '/root/Desktop/git/gantools/alphacoders/space/608325.jpg', '/root/Desktop/git/gantools/alphacoders/space/704756.jpg', '/root/Desktop/git/gantools/alphacoders/space/324636.jpg', '/root/Desktop/git/gantools/alphacoders/space/644453.jpg', '/root/Desktop/git/gantools/alphacoders/space/568769.jpg', '/root/Desktop/git/gantools/alphacoders/space/689247.png', '/root/Desktop/git/gantools/alphacoders/space/370137.jpg', '/root/Desktop/git/gantools/alphacoders/space/77312.jpg', '/root/Desktop/git/gantools/alphacoders/space/179169.jpg', '/root/Desktop/git/gantools/alphacoders/space/354876.jpg', '/root/Desktop/git/gantools/alphacoders/space/10148.jpg', '/root/Desktop/git/gantools/alphacoders/space/62007.jpg', '/root/Desktop/git/gantools/alphacoders/space/583132.jpg', '/root/Desktop/git/gantools/alphacoders/space/177928.jpg', '/root/Desktop/git/gantools/alphacoders/space/2539.jpg', '/root/Desktop/git/gantools/alphacoders/space/563360.png', '/root/Desktop/git/gantools/alphacoders/space/87915.jpg', '/root/Desktop/git/gantools/alphacoders/space/218839.jpg', '/root/Desktop/git/gantools/alphacoders/space/84227.jpg', '/root/Desktop/git/gantools/alphacoders/space/75665.jpg', '/root/Desktop/git/gantools/alphacoders/space/321442.jpg', '/root/Desktop/git/gantools/alphacoders/space/197035.jpg', '/root/Desktop/git/gantools/alphacoders/space/180281.jpg', '/root/Desktop/git/gantools/alphacoders/space/345775.jpg', '/root/Desktop/git/gantools/alphacoders/space/153710.jpg', '/root/Desktop/git/gantools/alphacoders/space/84289.jpg', '/root/Desktop/git/gantools/alphacoders/space/211691.jpg', '/root/Desktop/git/gantools/alphacoders/space/43866.jpg', '/root/Desktop/git/gantools/alphacoders/space/531839.jpg', '/root/Desktop/git/gantools/alphacoders/space/1155226.png', '/root/Desktop/git/gantools/alphacoders/space/694462.jpg', '/root/Desktop/git/gantools/alphacoders/space/800440.png', '/root/Desktop/git/gantools/alphacoders/space/805180.jpg', '/root/Desktop/git/gantools/alphacoders/space/294956.jpg', '/root/Desktop/git/gantools/alphacoders/space/223722.jpg', '/root/Desktop/git/gantools/alphacoders/space/566229.jpg', '/root/Desktop/git/gantools/alphacoders/space/560573.jpg', '/root/Desktop/git/gantools/alphacoders/space/1172536.jpg', '/root/Desktop/git/gantools/alphacoders/space/694455.jpg', '/root/Desktop/git/gantools/alphacoders/space/1150106.png', '/root/Desktop/git/gantools/alphacoders/space/709151.jpg', '/root/Desktop/git/gantools/alphacoders/space/513135.jpg', '/root/Desktop/git/gantools/alphacoders/space/693359.jpg', '/root/Desktop/git/gantools/alphacoders/space/192889.jpg', '/root/Desktop/git/gantools/alphacoders/space/920492.png', '/root/Desktop/git/gantools/alphacoders/space/74804.jpg', '/root/Desktop/git/gantools/alphacoders/space/129686.jpg', '/root/Desktop/git/gantools/alphacoders/space/8367.jpg', '/root/Desktop/git/gantools/alphacoders/space/910213.jpg', '/root/Desktop/git/gantools/alphacoders/space/286641.jpg', '/root/Desktop/git/gantools/alphacoders/space/438315.jpg', '/root/Desktop/git/gantools/alphacoders/space/428103.jpg', '/root/Desktop/git/gantools/alphacoders/space/828418.jpg', '/root/Desktop/git/gantools/alphacoders/space/1002539.jpg', '/root/Desktop/git/gantools/alphacoders/space/500529.png', '/root/Desktop/git/gantools/alphacoders/space/111124.jpg', '/root/Desktop/git/gantools/alphacoders/space/394026.jpg', '/root/Desktop/git/gantools/alphacoders/space/344974.jpg', '/root/Desktop/git/gantools/alphacoders/space/1150116.png', '/root/Desktop/git/gantools/alphacoders/space/786790.jpg', '/root/Desktop/git/gantools/alphacoders/space/327388.jpg', '/root/Desktop/git/gantools/alphacoders/space/708268.jpg', '/root/Desktop/git/gantools/alphacoders/space/516682.jpg', '/root/Desktop/git/gantools/alphacoders/space/310232.jpg', '/root/Desktop/git/gantools/alphacoders/space/279996.jpg', '/root/Desktop/git/gantools/alphacoders/space/279978.jpg', '/root/Desktop/git/gantools/alphacoders/space/242726.png', '/root/Desktop/git/gantools/alphacoders/space/852486.jpg', '/root/Desktop/git/gantools/alphacoders/space/803354.jpg', '/root/Desktop/git/gantools/alphacoders/space/286950.jpg', '/root/Desktop/git/gantools/alphacoders/space/426135.jpg', '/root/Desktop/git/gantools/alphacoders/space/89915.jpg', '/root/Desktop/git/gantools/alphacoders/space/343744.jpg', '/root/Desktop/git/gantools/alphacoders/space/192894.jpg', '/root/Desktop/git/gantools/alphacoders/space/914140.jpg', '/root/Desktop/git/gantools/alphacoders/space/151138.jpg', '/root/Desktop/git/gantools/alphacoders/space/118522.jpg', '/root/Desktop/git/gantools/alphacoders/space/941468.jpg']
+0.000%[>>.......................]
+0.422%[>>.......................]
+0.844%[>>.......................]
+1.266%[>>.......................]
+1.688%[>>.......................]
+2.110%[>>.......................]
+2.532%[>>.......................]
+2.954%[>>.......................]
+3.376%[>>.......................]
+3.797%[>>.......................]
+4.219%[#>>......................]
+4.641%[#>>......................]
+5.063%[#>>......................]
+5.485%[#>>......................]
+5.907%[#>>......................]
+6.329%[#>>......................]
+6.751%[#>>......................]
+7.173%[#>>......................]
+7.595%[#>>......................]
+8.017%[#>>......................]
+8.439%[##>>.....................]
+8.861%[##>>.....................]
+9.283%[##>>.....................]
+9.705%[##>>.....................]
+10.127%[##>>.....................]
+10.549%[##>>.....................]
+10.970%[##>>.....................]
+11.392%[##>>.....................]
+11.814%[##>>.....................]
+12.236%[##>>.....................]
+12.658%[###>>....................]
+13.080%[###>>....................]
+13.502%[###>>....................]
+13.924%[###>>....................]
+14.346%[###>>....................]
+14.768%[###>>....................]
+15.190%[###>>....................]
+15.612%[###>>....................]
+16.034%[###>>....................]
+16.456%[###>>....................]
+16.878%[####>>...................]
+17.300%[####>>...................]
+17.722%[####>>...................]
+18.143%[####>>...................]
+18.565%[####>>...................]
+18.987%[####>>...................]
+19.409%[####>>...................]
+19.831%[####>>...................]
+20.253%[####>>...................]
+20.675%[####>>...................]
+21.097%[#####>>..................]
+21.519%[#####>>..................]
+21.941%[#####>>..................]
+22.363%[#####>>..................]
+22.785%[#####>>..................]
+23.207%[#####>>..................]
+23.629%[#####>>..................]
+24.051%[#####>>..................]
+24.473%[#####>>..................]
+24.895%[#####>>..................]
+25.316%[######>>.................]
+25.738%[######>>.................]
+26.160%[######>>.................]
+26.582%[######>>.................]
+27.004%[######>>.................]
+27.426%[######>>.................]
+27.848%[######>>.................]
+28.270%[######>>.................]
+28.692%[######>>.................]
+29.114%[######>>.................]
+29.536%[#######>>................]
+29.958%[#######>>................]
+30.380%[#######>>................]
+30.802%[#######>>................]
+31.224%[#######>>................]
+31.646%[#######>>................]
+32.068%[#######>>................]
+32.489%[#######>>................]
+32.911%[#######>>................]
+33.333%[#######>>................]
+33.755%[########>>...............]
+34.177%[########>>...............]
+34.599%[########>>...............]
+35.021%[########>>...............]
+35.443%[########>>...............]
+35.865%[########>>...............]
+36.287%[########>>...............]
+36.709%[########>>...............]
+37.131%[########>>...............]
+37.553%[########>>...............]
+37.975%[#########>>..............]
+38.397%[#########>>..............]
+38.819%[#########>>..............]
+39.241%[#########>>..............]
+39.662%[#########>>..............]
+40.084%[#########>>..............]
+40.506%[#########>>..............]
+40.928%[#########>>..............]
+41.350%[#########>>..............]
+41.772%[#########>>..............]
+42.194%[##########>>.............]
+42.616%[##########>>.............]
+43.038%[##########>>.............]
+43.460%[##########>>.............]
+43.882%[##########>>.............]
+44.304%[##########>>.............]
+44.726%[##########>>.............]
+45.148%[##########>>.............]
+45.570%[##########>>.............]
+45.992%[##########>>.............]
+46.414%[###########>>............]
+46.835%[###########>>............]
+47.257%[###########>>............]
+47.679%[###########>>............]
+48.101%[###########>>............]
+48.523%[###########>>............]
+48.945%[###########>>............]
+49.367%[###########>>............]
+49.789%[###########>>............]
+50.211%[###########>>............]
+50.633%[############>>...........]
+51.055%[############>>...........]
+51.477%[############>>...........]
+51.899%[############>>...........]
+52.321%[############>>...........]
+52.743%[############>>...........]
+53.165%[############>>...........]
+53.586%[############>>...........]
+54.008%[############>>...........]
+54.430%[############>>...........]
+54.852%[#############>>..........]
+55.274%[#############>>..........]
+55.696%[#############>>..........]
+56.118%[#############>>..........]
+56.540%[#############>>..........]
+56.962%[#############>>..........]
+57.384%[#############>>..........]
+57.806%[#############>>..........]
+58.228%[#############>>..........]
+58.650%[#############>>..........]
+59.072%[##############>>.........]
+59.494%[##############>>.........]
+59.916%[##############>>.........]
+60.338%[##############>>.........]
+60.759%[##############>>.........]
+61.181%[##############>>.........]
+61.603%[##############>>.........]
+62.025%[##############>>.........]
+62.447%[##############>>.........]
+62.869%[##############>>.........]
+63.291%[###############>>........]
+63.713%[###############>>........]
+64.135%[###############>>........]
+64.557%[###############>>........]
+64.979%[###############>>........]
+65.401%[###############>>........]
+65.823%[###############>>........]
+66.245%[###############>>........]
+66.667%[###############>>........]
+67.089%[###############>>........]
+67.511%[################>>.......]
+67.932%[################>>.......]
+68.354%[################>>.......]
+68.776%[################>>.......]
+69.198%[################>>.......]
+69.620%[################>>.......]
+70.042%[################>>.......]
+70.464%[################>>.......]
+70.886%[################>>.......]
+71.308%[################>>.......]
+71.730%[#################>>......]
+72.152%[#################>>......]
+72.574%[#################>>......]
+72.996%[#################>>......]
+73.418%[#################>>......]
+73.840%[#################>>......]
+74.262%[#################>>......]
+74.684%[#################>>......]
+75.105%[#################>>......]
+75.527%[#################>>......]
+75.949%[##################>>.....]
+76.371%[##################>>.....]
+76.793%[##################>>.....]
+77.215%[##################>>.....]
+77.637%[##################>>.....]
+78.059%[##################>>.....]
+78.481%[##################>>.....]
+78.903%[##################>>.....]
+79.325%[##################>>.....]
+79.747%[##################>>.....]
+80.169%[###################>>....]
+80.591%[###################>>....]
+81.013%[###################>>....]
+81.435%[###################>>....]
+81.857%[###################>>....]
+82.278%[###################>>....]
+82.700%[###################>>....]
+83.122%[###################>>....]
+83.544%[###################>>....]
+83.966%[###################>>....]
+84.388%[####################>>...]
+84.810%[####################>>...]
+85.232%[####################>>...]
+85.654%[####################>>...]
+86.076%[####################>>...]
+86.498%[####################>>...]
+86.920%[####################>>...]
+87.342%[####################>>...]
+87.764%[####################>>...]
+88.186%[####################>>...]
+88.608%[#####################>>..]
+89.030%[#####################>>..]
+89.451%[#####################>>..]
+89.873%[#####################>>..]
+90.295%[#####################>>..]
+90.717%[#####################>>..]
+91.139%[#####################>>..]
+91.561%[#####################>>..]
+91.983%[#####################>>..]
+92.405%[#####################>>..]
+92.827%[######################>>.]
+93.249%[######################>>.]
+93.671%[######################>>.]
+94.093%[######################>>.]
+94.515%[######################>>.]
+94.937%[######################>>.]
+95.359%[######################>>.]
+95.781%[######################>>.]
+96.203%[######################>>.]
+96.624%[######################>>.]
+97.046%[#######################>>]
+97.468%[#######################>>]
+97.890%[#######################>>]
+98.312%[#######################>>]
+98.734%[#######################>>]process ==> /root/Desktop/git/gantools/alphacoders/space/324583.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 41,yend 1065,xstart 608,xend 1632
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/227839.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 287,yend 1311,xstart 1213,xend 2237
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/320280.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 148,yend 1172,xstart 168,xend 1192
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/320286.jpg
+height ==>1440:weight ==> 1920
+before size==> (1440, 1920, 3)
+ystart 306,yend 1330,xstart 30,xend 1054
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/808258.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 17,yend 1041,xstart 94,xend 1118
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/379323.jpg
+height ==>2400:weight ==> 3840
+before size==> (2400, 3840, 3)
+ystart 411,yend 1435,xstart 2702,xend 3726
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/212456.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 162,yend 1186,xstart 713,xend 1737
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/678913.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 105,yend 1129,xstart 798,xend 1822
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1158653.jpg
+height ==>2475:weight ==> 4400
+before size==> (2475, 4400, 3)
+ystart 625,yend 1649,xstart 3332,xend 4356
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/114228.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 512,yend 1536,xstart 720,xend 1744
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/127953.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 9,yend 1033,xstart 650,xend 1674
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/974428.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 31,yend 1055,xstart 703,xend 1727
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/206212.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 34,yend 1058,xstart 395,xend 1419
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/726682.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 831,yend 1855,xstart 1867,xend 2891
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/588412.jpg
+height ==>2400:weight ==> 3840
+before size==> (2400, 3840, 3)
+ystart 831,yend 1855,xstart 2246,xend 3270
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286946.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 107,yend 1131,xstart 796,xend 1820
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1043504.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 300,yend 1324,xstart 1404,xend 2428
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/80316.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 54,yend 1078,xstart 123,xend 1147
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/608291.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 11,yend 1035,xstart 165,xend 1189
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/335810.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 121,yend 1145,xstart 368,xend 1392
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/405947.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 557,yend 1581,xstart 254,xend 1278
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1155812.png
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 119,yend 1143,xstart 735,xend 1759
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/984392.jpg
+height ==>1125:weight ==> 2000
+before size==> (1125, 2000, 3)
+ystart 75,yend 1099,xstart 338,xend 1362
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/438211.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 6,yend 1030,xstart 222,xend 1246
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/188882.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 196,yend 1220,xstart 875,xend 1899
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/881685.jpg
+height ==>1745:weight ==> 1920
+before size==> (1745, 1920, 3)
+ystart 264,yend 1288,xstart 702,xend 1726
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/106698.jpg
+height ==>1581:weight ==> 2558
+before size==> (1581, 2558, 3)
+ystart 239,yend 1263,xstart 766,xend 1790
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/795586.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 50,yend 1074,xstart 318,xend 1342
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/105833.jpg
+height ==>1690:weight ==> 2000
+before size==> (1690, 2000, 3)
+ystart 87,yend 1111,xstart 186,xend 1210
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/68590.jpg
+height ==>1152:weight ==> 1536
+before size==> (1152, 1536, 3)
+ystart 71,yend 1095,xstart 184,xend 1208
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/113280.jpg
+height ==>2052:weight ==> 3648
+before size==> (2052, 3648, 3)
+ystart 828,yend 1852,xstart 1762,xend 2786
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/446646.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 48,yend 1072,xstart 263,xend 1287
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/800734.jpg
+height ==>1229:weight ==> 1920
+before size==> (1229, 1920, 3)
+ystart 2,yend 1026,xstart 532,xend 1556
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1109970.jpg
+height ==>2250:weight ==> 4000
+before size==> (2250, 4000, 3)
+ystart 1030,yend 2054,xstart 1766,xend 2790
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/106190.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 325,yend 1349,xstart 290,xend 1314
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/83512.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 61,yend 1085,xstart 659,xend 1683
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/947077.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 91,yend 1115,xstart 201,xend 1225
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/805177.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 1128,yend 2152,xstart 426,xend 1450
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/180323.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 11,yend 1035,xstart 601,xend 1625
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286967.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 130,yend 1154,xstart 464,xend 1488
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1071022.png
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)process ==> /root/Desktop/git/gantools/alphacoders/space/345414.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 16,yend 1040,xstart 302,xend 1326
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/778570.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 49,yend 1073,xstart 23,xend 1047
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/562953.png
+height ==>2226:weight ==> 5145
+before size==> (2226, 5145, 3)
+ystart 729,yend 1753,xstart 1654,xend 2678
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/415838.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 23,yend 1047,xstart 327,xend 1351
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/129697.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 72,yend 1096,xstart 241,xend 1265
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/566803.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 143,yend 1167,xstart 746,xend 1770
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/287038.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 5,yend 1029,xstart 660,xend 1684
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286874.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 138,yend 1162,xstart 87,xend 1111
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/335520.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 48,yend 1072,xstart 650,xend 1674
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/84047.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 276,yend 1300,xstart 386,xend 1410
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286938.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 27,yend 1051,xstart 851,xend 1875
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/113775.jpg
+height ==>2000:weight ==> 3000
+before size==> (2000, 3000, 3)
+ystart 570,yend 1594,xstart 1193,xend 2217
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/482721.jpg
+height ==>1800:weight ==> 2880
+before size==> (1800, 2880, 3)
+ystart 360,yend 1384,xstart 1204,xend 2228
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/549908.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 50,yend 1074,xstart 283,xend 1307
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/210220.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 56,yend 1080,xstart 675,xend 1699
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/368406.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 84,yend 1108,xstart 665,xend 1689
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/608906.jpg
+height ==>1440:weight ==> 3440
+before size==> (1440, 3440, 3)
+ystart 241,yend 1265,xstart 708,xend 1732
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/787307.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 44,yend 1068,xstart 844,xend 1868
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/853894.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 25,yend 1049,xstart 74,xend 1098
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/124786.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 55,yend 1079,xstart 612,xend 1636
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/50349.jpg
+height ==>1940:weight ==> 2588
+before size==> (1940, 2588, 3)
+ystart 195,yend 1219,xstart 520,xend 1544
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/223704.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 118,yend 1142,xstart 79,xend 1103
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1043255.png
+height ==>2160:weight ==> 7680
+before size==> (2160, 7680, 3)
+ystart 671,yend 1695,xstart 2924,xend 3948
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/368171.jpg
+height ==>2227:weight ==> 3200
+before size==> (2227, 3200, 3)
+ystart 803,yend 1827,xstart 896,xend 1920
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/274266.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 108,yend 1132,xstart 537,xend 1561
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/706223.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 260,yend 1284,xstart 1144,xend 2168
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/141869.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 87,yend 1111,xstart 866,xend 1890
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/178694.jpg
+height ==>1536:weight ==> 2048
+before size==> (1536, 2048, 3)
+ystart 385,yend 1409,xstart 1005,xend 2029
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/878355.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 43,yend 1067,xstart 289,xend 1313
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/654517.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 409,yend 1433,xstart 2604,xend 3628
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/809367.jpg
+height ==>1320:weight ==> 1980
+before size==> (1320, 1980, 3)
+ystart 91,yend 1115,xstart 676,xend 1700
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/187620.jpg
+height ==>1105:weight ==> 2380
+before size==> (1105, 2380, 3)
+ystart 61,yend 1085,xstart 1172,xend 2196
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/28165.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 89,yend 1113,xstart 677,xend 1701
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/913992.png
+height ==>4250:weight ==> 7555
+before size==> (4250, 7555, 3)
+ystart 1348,yend 2372,xstart 3674,xend 4698
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/296801.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 43,yend 1067,xstart 487,xend 1511
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/193.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 22,yend 1046,xstart 233,xend 1257
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/83504.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 14,yend 1038,xstart 69,xend 1093
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/704756.jpg
+height ==>1500:weight ==> 2000
+before size==> (1500, 2000, 3)
+ystart 194,yend 1218,xstart 84,xend 1108
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/370137.jpg
+height ==>1600:weight ==> 2400
+before size==> (1600, 2400, 3)
+ystart 491,yend 1515,xstart 791,xend 1815
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/179169.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 25,yend 1049,xstart 333,xend 1357
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/62007.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 0,yend 1024,xstart 249,xend 1273process ==> /root/Desktop/git/gantools/alphacoders/space/121547.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 6,yend 1030,xstart 403,xend 1427
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/108204.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 0,yend 1024,xstart 286,xend 1310
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/644455.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 39,yend 1063,xstart 319,xend 1343
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/57219.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 111,yend 1135,xstart 104,xend 1128
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1120397.png
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 755,yend 1779,xstart 1856,xend 2880
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/75617.jpg
+height ==>1404:weight ==> 1800
+before size==> (1404, 1800, 3)
+ystart 8,yend 1032,xstart 472,xend 1496
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/80903.jpg
+height ==>1416:weight ==> 3000
+before size==> (1416, 3000, 3)
+ystart 17,yend 1041,xstart 8,xend 1032
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/106498.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 153,yend 1177,xstart 983,xend 2007
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/43865.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 120,yend 1144,xstart 637,xend 1661
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/545583.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 362,yend 1386,xstart 242,xend 1266
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/805172.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 884,yend 1908,xstart 1319,xend 2343
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/492784.jpg
+height ==>1800:weight ==> 2880
+before size==> (1800, 2880, 3)
+ystart 535,yend 1559,xstart 1438,xend 2462
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/376890.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 106,yend 1130,xstart 375,xend 1399
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/122566.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 44,yend 1068,xstart 46,xend 1070
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1067199.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 14,yend 1038,xstart 594,xend 1618
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1138878.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 887,yend 1911,xstart 699,xend 1723
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/822479.jpg
+height ==>2000:weight ==> 3000
+before size==> (2000, 3000, 3)
+ystart 313,yend 1337,xstart 1154,xend 2178
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/280026.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 444,yend 1468,xstart 1273,xend 2297
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/611017.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 39,yend 1063,xstart 356,xend 1380
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/312428.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 31,yend 1055,xstart 885,xend 1909
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/362044.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 15,yend 1039,xstart 196,xend 1220
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1008435.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 6,yend 1030,xstart 543,xend 1567
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/397989.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 268,yend 1292,xstart 1000,xend 2024
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/127958.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 30,yend 1054,xstart 744,xend 1768
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/747737.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 255,yend 1279,xstart 1363,xend 2387
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1187530.jpg
+height ==>4000:weight ==> 6000
+before size==> (4000, 6000, 3)
+ystart 2129,yend 3153,xstart 1156,xend 2180
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/796291.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 31,yend 1055,xstart 513,xend 1537
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/212846.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 11,yend 1035,xstart 601,xend 1625
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/489534.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 9,yend 1033,xstart 381,xend 1405
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/718551.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 56,yend 1080,xstart 753,xend 1777
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/80317.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 25,yend 1049,xstart 341,xend 1365
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1008103.png
+height ==>2000:weight ==> 4000
+before size==> (2000, 4000, 3)
+ystart 224,yend 1248,xstart 646,xend 1670
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/878814.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 44,yend 1068,xstart 864,xend 1888
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/682612.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 111,yend 1135,xstart 1072,xend 2096
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1136184.png
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 140,yend 1164,xstart 2579,xend 3603
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1027696.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 1129,yend 2153,xstart 2230,xend 3254
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/644453.jpg
+height ==>2881:weight ==> 5121
+before size==> (2881, 5121, 3)
+ystart 1532,yend 2556,xstart 2996,xend 4020
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/10148.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 14,yend 1038,xstart 1508,xend 2532
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/84227.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 52,yend 1076,xstart 251,xend 1275
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/197035.jpg
+height ==>2333:weight ==> 3500
+before size==> (2333, 3500, 3)
+ystart 189,yend 1213,xstart 781,xend 1805
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1155226.png
+height ==>1200:weight ==> 2484
+before size==> (1200, 2484, 3)process ==> /root/Desktop/git/gantools/alphacoders/space/2545.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 44,yend 1068,xstart 180,xend 1204
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/287073.jpg
+height ==>1500:weight ==> 3000
+before size==> (1500, 3000, 3)
+ystart 228,yend 1252,xstart 1250,xend 2274
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/320283.jpg
+height ==>1536:weight ==> 2048
+before size==> (1536, 2048, 3)
+ystart 429,yend 1453,xstart 295,xend 1319
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/166912.jpg
+height ==>1895:weight ==> 2400
+before size==> (1895, 2400, 3)
+ystart 436,yend 1460,xstart 349,xend 1373
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/772701.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 625,yend 1649,xstart 302,xend 1326
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/577980.jpg
+height ==>3375:weight ==> 6000
+before size==> (3375, 6000, 3)
+ystart 414,yend 1438,xstart 4053,xend 5077
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/112196.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 72,yend 1096,xstart 35,xend 1059
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/964474.jpg
+height ==>1238:weight ==> 2200
+before size==> (1238, 2200, 3)
+ystart 160,yend 1184,xstart 805,xend 1829
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/104944.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 97,yend 1121,xstart 158,xend 1182
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/659468.jpg
+height ==>1280:weight ==> 1920
+before size==> (1280, 1920, 3)
+ystart 82,yend 1106,xstart 601,xend 1625
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/868698.jpg
+height ==>1108:weight ==> 1920
+before size==> (1108, 1920, 3)
+ystart 65,yend 1089,xstart 439,xend 1463
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/114640.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 286,yend 1310,xstart 1003,xend 2027
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/2532.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 79,yend 1103,xstart 561,xend 1585
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/849370.jpg
+height ==>3417:weight ==> 5000
+before size==> (3417, 5000, 3)
+ystart 560,yend 1584,xstart 240,xend 1264
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/852186.jpg
+height ==>2250:weight ==> 4000
+before size==> (2250, 4000, 3)
+ystart 1017,yend 2041,xstart 2964,xend 3988
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/32591.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 106,yend 1130,xstart 526,xend 1550
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/146888.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 51,yend 1075,xstart 706,xend 1730
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/927588.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 155,yend 1179,xstart 1031,xend 2055
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/871803.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 12,yend 1036,xstart 721,xend 1745
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/781842.jpg
+height ==>5400:weight ==> 7200
+before size==> (5400, 7200, 3)
+ystart 2426,yend 3450,xstart 1909,xend 2933
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/407375.jpg
+height ==>1800:weight ==> 2880
+before size==> (1800, 2880, 3)
+ystart 674,yend 1698,xstart 893,xend 1917
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/330738.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 2,yend 1026,xstart 603,xend 1627
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/167750.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 171,yend 1195,xstart 220,xend 1244
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/694466.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 92,yend 1116,xstart 25,xend 1049
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/516678.jpg
+height ==>1109:weight ==> 1920
+before size==> (1109, 1920, 3)
+ystart 61,yend 1085,xstart 728,xend 1752
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/853378.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 318,yend 1342,xstart 125,xend 1149
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/103988.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 24,yend 1048,xstart 570,xend 1594
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/446692.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 53,yend 1077,xstart 308,xend 1332
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/822471.jpg
+height ==>2000:weight ==> 3000
+before size==> (2000, 3000, 3)
+ystart 245,yend 1269,xstart 1367,xend 2391
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/608325.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 262,yend 1286,xstart 676,xend 1700
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/324636.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 113,yend 1137,xstart 358,xend 1382
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/568769.jpg
+height ==>2517:weight ==> 3840
+before size==> (2517, 3840, 3)
+ystart 878,yend 1902,xstart 2625,xend 3649
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/583132.jpg
+height ==>1440:weight ==> 2560
+before size==> (1440, 2560, 3)
+ystart 389,yend 1413,xstart 301,xend 1325
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/75665.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 52,yend 1076,xstart 127,xend 1151
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/345775.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 6,yend 1030,xstart 315,xend 1339
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/84289.jpg
+height ==>1050:weight ==> 1680
+before size==> (1050, 1680, 3)
+ystart 13,yend 1037,xstart 548,xend 1572
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/43866.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 95,yend 1119,xstart 271,xend 1295
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/694462.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 28,yend 1052,xstart 635,xend 1659
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1172536.jpg
+height ==>3760:weight ==> 6016
+before size==> (3760, 6016, 3)
+ystart 1420,yend 2444,xstart 1716,xend 2740
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/920492.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 21,yend 1045,xstart 197,xend 1221
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/129686.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 58,yend 1082,xstart 67,xend 1091
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286641.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 146,yend 1170,xstart 569,xend 1593
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1002539.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 162,yend 1186,xstart 2051,xend 3075
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/786790.jpg
+height ==>1200:weight ==> 2560
+before size==> (1200, 2560, 3)
+ystart 124,yend 1148,xstart 1499,xend 2523
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/279996.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 6,yend 1030,xstart 87,xend 1111
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/803354.jpg
+height ==>1367:weight ==> 2048
+before size==> (1367, 2048, 3)
+ystart 320,yend 1344,xstart 723,xend 1747
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/343744.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 74,yend 1098,xstart 573,xend 1597
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/151138.jpg
+height ==>1498:weight ==> 2559
+before size==> (1498, 2559, 3)
+ystart 201,yend 1225,xstart 618,xend 1642
+after size==> (1024, 1024, 3)
+
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/2539.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 23,yend 1047,xstart 197,xend 1221
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/218839.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 411,yend 1435,xstart 330,xend 1354
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/180281.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 122,yend 1146,xstart 588,xend 1612
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/211691.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 27,yend 1051,xstart 233,xend 1257
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/531839.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 14,yend 1038,xstart 325,xend 1349
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/294956.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 14,yend 1038,xstart 390,xend 1414
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/566229.jpg
+height ==>5000:weight ==> 8000
+before size==> (5000, 8000, 3)
+ystart 1471,yend 2495,xstart 4497,xend 5521
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/394026.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 16,yend 1040,xstart 450,xend 1474
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/327388.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 2,yend 1026,xstart 516,xend 1540
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/279978.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 38,yend 1062,xstart 701,xend 1725
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/286950.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 34,yend 1058,xstart 359,xend 1383
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/192894.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 563,yend 1587,xstart 457,xend 1481
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/118522.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 64,yend 1088,xstart 467,xend 1491
+after size==> (1024, 1024, 3)
+
+ystart 92,yend 1116,xstart 994,xend 2018
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/223722.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 48,yend 1072,xstart 287,xend 1311
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/694455.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 26,yend 1050,xstart 643,xend 1667
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/513135.jpg
+height ==>1122:weight ==> 2000
+before size==> (1122, 2000, 3)
+ystart 95,yend 1119,xstart 138,xend 1162
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/693359.jpg
+height ==>1115:weight ==> 1920
+before size==> (1115, 1920, 3)
+ystart 67,yend 1091,xstart 781,xend 1805
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/192889.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 454,yend 1478,xstart 921,xend 1945
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/8367.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 0,yend 1024,xstart 621,xend 1645
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/910213.jpg
+height ==>1280:weight ==> 2048
+before size==> (1280, 2048, 3)
+ystart 116,yend 1140,xstart 808,xend 1832
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/828418.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 34,yend 1058,xstart 165,xend 1189
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1150116.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 11,yend 1035,xstart 313,xend 1337
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/708268.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 32,yend 1056,xstart 268,xend 1292
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/310232.jpg
+height ==>1080:weight ==> 2010
+before size==> (1080, 2010, 3)
+ystart 21,yend 1045,xstart 673,xend 1697
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/242726.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 30,yend 1054,xstart 456,xend 1480
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/89915.jpg
+height ==>2030:weight ==> 4031
+before size==> (2030, 4031, 3)
+ystart 187,yend 1211,xstart 2968,xend 3992
+after size==> (1024, 1024, 3)
+
+ystart 406,yend 1430,xstart 965,xend 1989
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/364353.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 133,yend 1157,xstart 179,xend 1203
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/15621.jpg
+height ==>2000:weight ==> 3008
+before size==> (2000, 3008, 3)
+ystart 393,yend 1417,xstart 1311,xend 2335
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/242.jpg
+height ==>2010:weight ==> 3027
+before size==> (2010, 3027, 3)
+ystart 546,yend 1570,xstart 1357,xend 2381
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/167492.jpg
+height ==>2000:weight ==> 3000
+before size==> (2000, 3000, 3)
+ystart 858,yend 1882,xstart 764,xend 1788
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/77312.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 19,yend 1043,xstart 127,xend 1151
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/354876.jpg
+height ==>1694:weight ==> 3000
+before size==> (1694, 3000, 3)
+ystart 413,yend 1437,xstart 626,xend 1650
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/177928.jpg
+height ==>1536:weight ==> 2200
+before size==> (1536, 2200, 3)
+ystart 399,yend 1423,xstart 472,xend 1496
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/87915.jpg
+height ==>1200:weight ==> 1600
+before size==> (1200, 1600, 3)
+ystart 20,yend 1044,xstart 407,xend 1431
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/321442.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 71,yend 1095,xstart 706,xend 1730
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/153710.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 175,yend 1199,xstart 67,xend 1091
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/805180.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 760,yend 1784,xstart 846,xend 1870
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/1150106.png
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 12,yend 1036,xstart 53,xend 1077
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/709151.jpg
+height ==>1872:weight ==> 3002
+before size==> (1872, 3002, 3)
+ystart 18,yend 1042,xstart 670,xend 1694
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/438315.jpg
+height ==>1080:weight ==> 1920
+before size==> (1080, 1920, 3)
+ystart 31,yend 1055,xstart 751,xend 1775
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/428103.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 42,yend 1066,xstart 624,xend 1648
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/111124.jpg
+height ==>1600:weight ==> 2560
+before size==> (1600, 2560, 3)
+ystart 249,yend 1273,xstart 1294,xend 2318
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/516682.jpg
+height ==>1302:weight ==> 2260
+before size==> (1302, 2260, 3)
+ystart 43,yend 1067,xstart 744,xend 1768
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/852486.jpg
+height ==>1335:weight ==> 2560
+before size==> (1335, 2560, 3)
+ystart 6,yend 1030,xstart 601,xend 1625
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/426135.jpg
+height ==>1200:weight ==> 1920
+before size==> (1200, 1920, 3)
+ystart 42,yend 1066,xstart 19,xend 1043
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/914140.jpg
+height ==>2160:weight ==> 3840
+before size==> (2160, 3840, 3)
+ystart 912,yend 1936,xstart 2707,xend 3731
+after size==> (1024, 1024, 3)
+process ==> /root/Desktop/git/gantools/alphacoders/space/941468.jpg
+height ==>3750:weight ==> 5000
+before size==> (3750, 5000, 3)
+ystart 214,yend 1238,xstart 896,xend 1920
+after size==> (1024, 1024, 3)
+
+99.156%[#######################>>]
+99.578%[#######################>>]
+All done.

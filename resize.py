@@ -8,14 +8,15 @@
     input_dir = "./label"
 """
 import multiprocessing
-#import cv2
+import cv2
 import os
 import time
 import random
-g_x = 0
-g_y = 0
+g_x = 1024
+g_y = 1024
 def get_img(input_dir):
     img_paths = []
+    print("input_dir ==>",input_dir)
     for (path,dirname,filenames) in os.walk(input_dir):
         for filename in filenames:
             img_paths.append(path+'/'+filename)
@@ -23,7 +24,7 @@ def get_img(input_dir):
     return img_paths
 
 '''
-x0,y0
+                        xmax,ymax  
 -------------------------
 |                       |
 |                       |
@@ -31,32 +32,39 @@ x0,y0
 |                       |
 |                       |                  
 -------------------------     
-                        xmax,ymax   
+x0,y0                      
    
 
 '''
 def randomseed(height,weight):
-    xend =  random.randint(g_x,height) 
+    xend =  random.randint(g_x,weight) 
     xstart = xend - g_x 
-    yend = random.randint(g_y,weight) 
+    yend = random.randint(g_y,height) 
     ystart = yend - g_y 
-    print('ystart %d,yend %d,xstart %d,xend %d'%(ystart,yend,xstart,xend))
+    #print('ystart %d,yend %d,xstart %d,xend %d'%(ystart,yend,xstart,xend))
     return ystart,yend,xstart,xend
     
 
 def cut_img(img_paths,output_dir):
     imread_failed = []
     try:
-        img = cv2.imread(img_paths)
+        img = cv2.imread(img_paths,1)
         height, weight = img.shape[:2]
        
-        return imread_failed (if height < g_y or weight < g_x)
-
+        if height < g_y or weight < g_x:
+            return imread_failed 
+     
         ystart,yend,xstart,xend = randomseed(height,weight)
         cropImg = img[ystart:yend, xstart:xend]
+        print('after size==>',cropImg.shape)
         cv2.imwrite(output_dir + '/' + img_paths.split('/')[-1], cropImg)
-    except:
+  
+        
+    except Exception as e:
+        print(str(e))
+        print('imwrite failed...',img_paths)
         imread_failed.append(img_paths)
+        
     return imread_failed
 
 
@@ -65,25 +73,25 @@ def main(input_dir,output_dir):
     scale = len(img_paths)
 
     results = []
-    pool = multiprocessing.Pool(processes = 4)
+    pool = multiprocessing.Pool(processes = 20)
     for i,img_path in enumerate(img_paths):
         a = "#"* int(i/10)
         b = "."*(int(scale/10)-int(i/10))
         c = (i/scale)*100
         results.append(pool.apply_async(cut_img, (img_path,output_dir )))
         print('{:^3.3f}%[{}>>{}]'.format(c, a, b)) # 进度条（可用tqdm）
+       
+    
     pool.close()                        # 调用join之前，先调用close函数，否则会出错。
     pool.join()                         # join函数等待所有子进程结束
-    for result in results:
-        print('image read failed!:', result.get())
+    # for result in results:
+    #     print('image read failed!:', result.get())
     print ("All done.")
 
 
 
 if __name__ == "__main__":
-    # input_dir = "D:/image_person"       # 读取图片目录表
-    # output_dir = "D:/image_person_02"   # 保存截取的图像目录
-    # main(input_dir, output_dir)
-    g_x,g_y = 1024
-    for i in range(2000):
-        randomseed(1920,1080)
+    input_dir = '/root/Desktop/git/gantools/alphacoders/space'      # 读取图片目录表
+    output_dir = '/root/Desktop/git/gantools/alphacoders/out'   # 保存截取的图像目录
+    main(input_dir, output_dir)
+
