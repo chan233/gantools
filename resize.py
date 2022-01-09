@@ -53,6 +53,7 @@ def cut_img(img_paths,output_dir):
         img = cv2.imread(img_paths,1)
         height, weight = img.shape[:2]   
         if height < g_y or weight < g_x:
+            print('current image ==> %s height ==> %d weight ==> %d'%(img_paths,height,weight))
             print('image size not enough to reszie')
             return imread_failed    
         ystart,yend,xstart,xend = randomseed(height,weight)

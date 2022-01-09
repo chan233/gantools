@@ -19,7 +19,7 @@ proxie = {
     
 }
 
-
+import multiprocessing
 #response = requests.get(url,proxies=proxies)
 
 ua = UserAgent(verify_ssl=False, path='./fake.json')
@@ -55,22 +55,45 @@ class Crawler():
             pic_list.append(url)
 
     def save(self):
-       
+      
         if not os.path.exists("./" + self.__keyword):
             os.mkdir("./" + self.__keyword)
     
-        for count ,url in enumerate(pic_list):
-            time.sleep(1)
-            pic = requests.get(url,headers=random_ua()) # 发送请求
-            if pic.status_code == 200:
+        # for count ,url in enumerate(pic_list):
+        #     time.sleep(1)
+        #     pic = requests.get(url,headers=random_ua()) # 发送请求
+        #     if pic.status_code == 200:
                 
-                filename = "./" + self.__keyword+'/'+os.path.basename(url)
-                print('saving %s ....'%(filename))
-                with open (filename, 'wb') as f:
-                    f.write(pic.content)
-                    f.close()
+        #         filename = "./" + self.__keyword+'/'+os.path.basename(url)
+        #         print('saving %s ....'%(filename))
+        #         with open (filename, 'wb') as f:
+        #             f.write(pic.content)
+        #             f.close()
 
-    def start(self,word = 'space',total_page = 100):
+        results = []
+        pool = multiprocessing.Pool(processes = 20)
+        scale = len(pic_list)
+        for i ,url in enumerate(pic_list):
+            a = "#"* int(i/10)
+            b = "."*(int(scale/10)-int(i/10))
+            c = (i/scale)*100
+            results.append(pool.apply_async(self.get, (url,random_ua())))
+            print('{:^3.3f}%[{}>>{}]'.format(c, a, b)) # 进度条（可用tqdm）
+            
+        pool.close()                        # 调用join之前，先调用close函数，否则会出错。
+        pool.join()                         # join函数等待所有子进程结束
+            
+    def get(self,url,_headers):
+        pic = requests.get(url,headers=_headers) # 发送请求
+        if pic.status_code == 200:
+            filename = "./" + self.__keyword+'/'+os.path.basename(url)
+            print('saving %s ....'%(filename))
+            with open (filename, 'wb') as f:
+                f.write(pic.content)
+                f.close()
+
+
+    def start(self,word = 'space',total_page = 60):
         self.__keyword = word
         self.__total_page = total_page + 2
         for i in range(2, self.__total_page):
