@@ -4,6 +4,7 @@
 抓取    alphacoders Wallpapers
 '''
 import argparse
+from cgitb import text
 import os
 import time
 import requests
@@ -11,13 +12,18 @@ import sys
 from config import global_config
 from fake_useragent import UserAgent
 from bs4 import BeautifulSoup
-
-
+import asyncio
+import aiohttp
+MAX_ASYN = 5
+session = None
+semaphore = asyncio.Semaphore(MAX_ASYN)
 proxie = { 
     'http' : 'http://xx.xxx.xxx.xxx:xxxx',
     'http' : 'http://xxx.xx.xx.xxx:xxx',
     
 }
+PAGE_SIZE = 18
+INDEX_URL='https://spa5.scrape.center/api/book/?limit=18&offset={offset}' 
 
 import multiprocessing
 #response = requests.get(url,proxies=proxies)
@@ -91,6 +97,47 @@ class Crawler():
             with open (filename, 'wb') as f:
                 f.write(pic.content)
                 f.close()
+
+
+    async def scrape_index(page):
+        url = INDEX_URL.format(offset=PAGE_SIZE *(page-1))
+        return await scrape_api(url)
+        
+
+    async def scrape_api(url):
+        async with semaphore:
+            try:
+                print('scrape url ==> ',url)
+                async with session.get(url) as response:
+                    return await response.json()
+            except Exception as e:
+                print(e)
+    async def main():
+        global session
+        session = aiohttp.ClientSession()
+        tasks = [asyncio.ensure_future(scrape_index(i)) for i in range(1,5)]
+        print('START gather')
+        results = await asyncio.gather(*tasks)
+        print('AFTER gather')
+        #data = json.dumps(results,ensure_ascii=False,indent=2)
+        ids = []
+        for res in results:
+            if not res : continue
+            for item in res.get('results'):
+                print(item.get('id'))
+                ids.append(item.get('id'))
+                
+        #detail_tasks = [asyncio.ensure_future(scrape_datail(id)) for id in ids]
+        #await asyncio.wait(detail_tasks)
+        await session.close()
+    def startasync():
+      
+    
+        start = time.time()
+        results = asyncio.get_event_loop().run_until_complete(main())
+        end = time.time()
+
+        print('total spend time ==> ',end-start)
 
 
     def start(self,word = 'space',total_page = 60):
