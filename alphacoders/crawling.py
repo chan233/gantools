@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding:utf-8 -*-
 '''
-抓取    alphacoders Wallpapers
+抓取    alphacoders Wallpapers async
 '''
 import argparse
 from cgitb import text
